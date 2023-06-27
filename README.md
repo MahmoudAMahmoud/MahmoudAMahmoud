@@ -19,11 +19,6 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mahmoud-ahmed-67a584202" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudamahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudamahmoud" /> </p>
