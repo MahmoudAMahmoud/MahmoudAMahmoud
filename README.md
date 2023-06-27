@@ -1,5 +1,4 @@
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
-
+# Hey all!
 ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
 <img src="https://profile-counter.glitch.me/MahmoudAMahmoud/count.svg">
@@ -13,9 +12,12 @@
 -  **I'm a hopeful web and app developer 👩🏻‍💻**
 ### Here's my github README stats:
 
+### Here's my github README stats:
+
 ![MahmoudAMahmoud GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAMahmoud&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAMahmoud&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MahmoudAMahmoud)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Some of my public repositories (not forks):
 
@@ -58,17 +60,8 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### Here's my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
-
 ### Thank you for visiting my profile 🤓 
 
-### Feel free to fork and 🌟 this repo!!
-
-------
-
-Credit : [AvidCoder101](https://github.com/AvidCoder101)
 
 Last Edited On: 31/08/2021
 
