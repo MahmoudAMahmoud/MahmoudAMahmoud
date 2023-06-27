@@ -1,4 +1,4 @@
-/*
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -24,9 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-*/
-<h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudamahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudamahmoud" /> </p>
 
