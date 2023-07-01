@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudamahmoud" alt="mahmoudamahmoud" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ghostmcode" target="blank"><img src="https://img.shields.io/twitter/follow/@ghostmcode?logo=twitter&style=for-the-badge" alt="@ghostmcode" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ghostmcode" target="blank"><img src="https://img.shields.io/twitter/follow/ghostmcode?logo=twitter&style=for-the-badge" alt="ghostmcode" /></a> </p>
 
 - 🔭 I’m currently working on **Desktop application by DotNet framework**
 
@@ -54,6 +54,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAMahmoud&show_icons=true&locale=en&layout=compact" alt="MahmoudAMahmoud" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudamahmoud&show_icons=true&locale=en" alt="mahmoudamahmoud" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoudAMahmoud&show_icons=true&locale=en" alt="MahmoudAMahmoud" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudamahmoud&" alt="mahmoudamahmoud" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAMahmoud&" alt="MahmoudAMahmoud" /></p>
