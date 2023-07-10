@@ -23,9 +23,7 @@
 - 💬 Ask me about **web & desktop development**
 
 - 📫 How to reach me **m.ahmed.mahmoudcode@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cwf3NPsk6QqmmBVmxwPHd6TF4d2BbKks/view?usp=drive_link](https://drive.google.com/file/d/1Cwf3NPsk6QqmmBVmxwPHd6TF4d2BbKks/view?usp=drive_link)
-
+  
 - ⚡ Fun fact **Coffee lover**
 
 
