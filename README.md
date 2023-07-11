@@ -1,19 +1,15 @@
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+
 
 <h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
 <h3 align="center">A passionate software developer from Egypt</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudamahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudamahmoud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudamahmoud" alt="mahmoudamahmoud" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ghostmcode" target="blank"><img src="https://img.shields.io/twitter/follow/ghostmcode?logo=twitter&style=for-the-badge" alt="ghostmcode" /></a> </p>
-
+<p><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px />**About me**</p>
 - 🔭 I’m currently working on **Desktop application by DotNet framework**
 
 - 🌱 I’m currently learning **C# and .Net**
