@@ -25,7 +25,7 @@
 </p>
 <table width="100%" >
  <tr>
-    <td width="40%">
+    <td width="60%">
      
 ## 🛠️ Skills
 #### Languages
@@ -45,7 +45,7 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 </td>
     <td>
-## 📄📜 Stats
+ 📄📜 Stats
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MahmoudAMahmoud&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
  </br>
