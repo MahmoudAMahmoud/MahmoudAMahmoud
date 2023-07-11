@@ -25,7 +25,7 @@
 </p>
 <table width="100%" >
  <tr>
-    <td width="60%">
+    <td width="40%">
      
 ## 🛠️ Skills
 #### Languages
