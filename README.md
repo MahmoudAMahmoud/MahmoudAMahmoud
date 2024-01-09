@@ -6,12 +6,9 @@
 </p> 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mahmoudamahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudamahmoud"/></p>
 
-- 🔭 I’m currently working on **Desktop application by DotNet framework**
 
 - 🌱 I’m currently learning **C# and .Net**
-
-- 👯 I’m looking to collaborate on **Desktop & Mobile projects**
-
+  
 - 💬 Ask me about **web & desktop development**
 
 - 📫 How to reach me **m.ahmed.mahmoudcode@gmail.com**
