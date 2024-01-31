@@ -30,8 +30,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudamahmoud&show_icons=true&locale=en&layout=compact" alt="mahmoudamahmoud" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudamahmoud&show_icons=true&locale=en" alt="mahmoudamahmoud" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudamahmoud&show_icons=true&locale=en&layout=compact" alt="mahmoudamahmoud" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudamahmoud&show_icons=true&locale=en" alt="mahmoudamahmoud" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudamahmoud&" alt="mahmoudamahmoud" /></p>
+
+
